@@ -12,3 +12,4 @@ R=rect(a,b)
 R.show()
 
 edit 2
+new function
