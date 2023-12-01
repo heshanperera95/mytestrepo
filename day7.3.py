@@ -11,8 +11,3 @@ b=int(input("Enter Width : "))
 R=rect(a,b)
 R.show()
 
-
-feture accepted. like to know more
-
-upgrade feature is here 
-
