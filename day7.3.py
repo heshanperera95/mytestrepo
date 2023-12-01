@@ -10,3 +10,5 @@ a=int(input("Enter Length: "))
 b=int(input("Enter Width : "))
 R=rect(a,b)
 R.show()
+
+edit 2
